@@ -25,10 +25,19 @@ ul {
     border-width: 2px;
     border-color: black;
     border-style: dashed;
+    border-radius: 25px;
+    padding: 10px;
+
 }
 img{
     width: 30%;
 }
 li{
     margin: 10px 20px;
+}
+
+
+a {
+    right: 0;
+    position: absolute;
 }
